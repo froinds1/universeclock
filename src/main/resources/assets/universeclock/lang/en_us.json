@@ -1,0 +1,25 @@
+{
+  "item.universeclock.universe_clock": "Clock of the Universe",
+  "item.universeclock.universe_clock.tooltip": "Right-click to set the time of day",
+  "item.universeclock.universe_clock.tooltip2": "Accurate to the second",
+
+  "gui.universeclock.title": "Clock of the Universe",
+  "gui.universeclock.now": "World time now: %s",
+  "gui.universeclock.day_tick": "Day %1$s · tick %2$s",
+  "gui.universeclock.hours": "HOURS",
+  "gui.universeclock.minutes": "MINUTES",
+  "gui.universeclock.seconds": "SECONDS",
+  "gui.universeclock.sky": "Sky timeline",
+  "gui.universeclock.tick_info": "Day tick: %1$s of %2$s (~ %3$s)",
+  "gui.universeclock.preset.dawn": "Dawn",
+  "gui.universeclock.preset.morning": "Morning",
+  "gui.universeclock.preset.noon": "Noon",
+  "gui.universeclock.preset.sunset": "Sunset",
+  "gui.universeclock.preset.night": "Night",
+  "gui.universeclock.preset.midnight": "Midnight",
+  "gui.universeclock.sync": "Current",
+  "gui.universeclock.apply": "Apply",
+  "gui.universeclock.close": "Close",
+  "gui.universeclock.applied": "Time set to %1$s (tick %2$s)",
+  "gui.universeclock.hint": "Mouse wheel, arrows or type digits · Shift - big step · Enter - apply"
+}

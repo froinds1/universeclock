@@ -1,0 +1,25 @@
+{
+  "item.universeclock.universe_clock": "Часы вселенной",
+  "item.universeclock.universe_clock.tooltip": "ПКМ — настроить время суток",
+  "item.universeclock.universe_clock.tooltip2": "С точностью до секунды",
+
+  "gui.universeclock.title": "Часы вселенной",
+  "gui.universeclock.now": "Сейчас в мире: %s",
+  "gui.universeclock.day_tick": "День %1$s · тик %2$s",
+  "gui.universeclock.hours": "ЧАСЫ",
+  "gui.universeclock.minutes": "МИНУТЫ",
+  "gui.universeclock.seconds": "СЕКУНДЫ",
+  "gui.universeclock.sky": "Небесная шкала",
+  "gui.universeclock.tick_info": "Тик суток: %1$s из %2$s (~ %3$s)",
+  "gui.universeclock.preset.dawn": "Рассвет",
+  "gui.universeclock.preset.morning": "Утро",
+  "gui.universeclock.preset.noon": "Полдень",
+  "gui.universeclock.preset.sunset": "Закат",
+  "gui.universeclock.preset.night": "Ночь",
+  "gui.universeclock.preset.midnight": "Полночь",
+  "gui.universeclock.sync": "Текущее",
+  "gui.universeclock.apply": "Применить",
+  "gui.universeclock.close": "Закрыть",
+  "gui.universeclock.applied": "Время установлено: %1$s (тик %2$s)",
+  "gui.universeclock.hint": "Колесо мыши, стрелки или ввод цифр · Shift — крупный шаг · Enter — применить"
+}
